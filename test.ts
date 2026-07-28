@@ -1,4 +1,4 @@
-import { WinterAvatar } from './src/index';
+import { WinterAvatar } from './src/index.ts';
 
 async function test() {
   console.log('Testing WinterAvatar Library...\n');

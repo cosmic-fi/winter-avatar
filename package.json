@@ -1,6 +1,7 @@
 {
   "name": "winter-avatar",
   "version": "1.0.0",
+  "type": "module",
   "description": "Standalone Minecraft skin renderer library for Node.js - renders 2D and 3D isometric avatars from Minecraft skins",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -20,7 +21,7 @@
     "build": "tsc",
     "dev": "tsc --watch",
     "prepublishOnly": "npm run build",
-    "test": "node dist/test.js"
+    "test": "npx ts-node test.ts"
   },
   "keywords": [
     "minecraft",
@@ -50,10 +51,10 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/cosmic-fi/winter-avatar"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/cosmic-fi/winter-avatar/issues"
   },
-  "homepage": ""
+  "homepage": "https://winteravatar.cosmicfi.dev/"
 }
