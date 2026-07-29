@@ -24,7 +24,10 @@
     "test": "npx ts-node test.ts"
   },
   "keywords": [
+    "winter-avatar",
+    "winteravatar",
     "minecraft",
+    "cosmic-fi",
     "skin",
     "avatar",
     "renderer",
