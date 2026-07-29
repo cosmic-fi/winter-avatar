@@ -1,4 +1,4 @@
-# Winter Avatar
+# WinterAvatar
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://winteravatar.cosmicfi.dev)
 [![npm version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://www.npmjs.com/package/winter-avatar)
@@ -20,14 +20,16 @@ A powerful TypeScript/Node.js library for rendering Minecraft skin avatars. Conv
 ## Screenshots
 
 ### 2D Renders
-![2D Face](docs/screenshots/2d-face.png)
-![2D Bust](docs/screenshots/2d-bust.png)
-![2D Full Body](docs/screenshots/2d-full.png)
+
+| Face | Bust | Full Body |
+|:-----:|:----:|:---------:|
+| <img src="https://github.com/user-attachments/assets/9c06bee8-477c-4bb3-bcbf-457e012f4f37" width="220" alt="2D Face" /> | <img src="https://github.com/user-attachments/assets/3e6a6e45-abba-466a-a53c-8506edde2246" width="220" alt="2D Bust" /> | <img src="https://github.com/user-attachments/assets/9eaed642-8bd5-4fb2-b844-9ae8ead6c189" width="220" alt="2D Full Body" /> |
 
 ### 3D Isometric Renders
-![3D Head](docs/screenshots/3d-head.png)
-![3D Bust](docs/screenshots/3d-bust.png)
-![3D Full Body](docs/screenshots/3d-full.png)
+
+| Head | Bust | Full Body |
+|:----:|:----:|:---------:|
+| <img src="https://github.com/user-attachments/assets/93fe417c-56ff-40a4-8862-ae679cf0d4dd" width="220" alt="3D Head" /> | <img src="https://github.com/user-attachments/assets/3add6eb2-50d0-46d4-9661-7a391fee3eeb" width="220" alt="3D Bust" /> | <img src="https://github.com/user-attachments/assets/4e822a11-524d-4f55-8669-2e28fb94566b" width="220" alt="3D Full Body" /> |
 
 ## Installation
 
@@ -266,7 +268,3 @@ MIT
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues and pull requests.
-
-## Credits
-
-This library is based on the WinterAvatar API server, ported to run standalone in Node.js.
