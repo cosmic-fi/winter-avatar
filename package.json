@@ -4,12 +4,11 @@
   "type": "module",
   "description": "Standalone Minecraft skin renderer library for Node.js - renders 2D and 3D isometric avatars from Minecraft skins",
   "main": "dist/index.js",
-  "module": "dist/index.mjs",
+  "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "exports": {
     ".": {
-      "import": "./dist/index.mjs",
-      "require": "./dist/index.js",
+      "import": "./dist/index.js",
       "types": "./dist/index.d.ts"
     }
   },

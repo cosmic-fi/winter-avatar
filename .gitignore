@@ -3,3 +3,5 @@ dist/
 assets/
 *.log
 .DS_Store
+*tgz
+*zip
